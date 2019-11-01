@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">GO브루나이</string>
+    <string name="index">http://shiningtour.itforone.co.kr/</string>
+    <string name="board_tour">http://shiningtour.itforone.co.kr/bbs/board.php?bo_table=tour</string>
+    <string name="board_tour2">http://shiningtour.itforone.co.kr/bbs/board.php?bo_table=tour02</string>
+    <string name="board_tour3">http://shiningtour.itforone.co.kr/bbs/board.php?bo_table=tour03</string>
+    <string name="board_tour4">http://shiningtour.itforone.co.kr/bbs/board.php?bo_table=tour04</string>
+    <string name="board_tour5">http://shiningtour.itforone.co.kr/bbs/board.php?bo_table=tour05</string>
+    <string name="board_tour6">http://shiningtour.itforone.co.kr/bbs/board.php?bo_table=tour06</string>
+    <string name="board_tour7">http://shiningtour.itforone.co.kr/bbs/board.php?bo_table=tour07</string>
+    <string name="board_tour8">http://shiningtour.itforone.co.kr/bbs/board.php?bo_table=tour08</string>
+
+    <string name="board_tour_eng">http://shiningtour.itforone.co.kr/eng/bbs/board.php?bo_table=eng_tour</string>
+    <string name="board_tour2_eng">http://shiningtour.itforone.co.kr/eng/bbs/board.php?bo_table=eng_tour02</string>
+    <string name="board_tour3_eng">http://shiningtour.itforone.co.kr/eng/bbs/board.php?bo_table=eng_tour03</string>
+    <string name="board_tour4_eng">http://shiningtour.itforone.co.kr/eng/bbs/board.php?bo_table=eng_tour04</string>
+    <string name="board_tour5_eng">http://shiningtour.itforone.co.kr/eng/bbs/board.php?bo_table=eng_tour05</string>
+    <string name="board_tour6_eng">http://shiningtour.itforone.co.kr/eng/bbs/board.php?bo_table=eng_tour06</string>
+    <string name="board_tour7_eng">http://shiningtour.itforone.co.kr/eng/bbs/board.php?bo_table=eng_tour07</string>
+    <string name="board_tour8_eng">http://shiningtour.itforone.co.kr/eng/bbs/board.php?bo_table=eng_tour08</string>
+
+    <string name="login">http://shiningtour.itforone.co.kr/bbs/login.php</string>
+    <string name="login_chk">http://shiningtour.itforone.co.kr/bbs/login_check.php</string>
+    <string name="logout">http://shiningtour.itforone.co.kr/bbs/logout.php</string>
+    <string name="register">http://shiningtour.itforone.co.kr/bbs/register.php</string>
+    <string name="favorite">http://shiningtour.itforone.co.kr/bbs/mybookmark.php</string>
+    <string name="profile">http://shiningtour.itforone.co.kr/bbs/register_form.php?w=u</string>
+    <string name="coupon">http://shiningtour.itforone.co.kr/bbs/mycoupon.php</string>
+    <string name="schedule">http://shiningtour.itforone.co.kr/bbs/myschedule.php</string>
+    <string name="qna">http://shiningtour.itforone.co.kr/bbs/board.php?bo_table=faq</string>
+
+    <string name="login_eng">http://shiningtour.itforone.co.kr/eng/bbs/login.php</string>
+    <string name="login_eng_chk">http://shiningtour.itforone.co.kr/eng/bbs/login_check.php</string>
+    <string name="register_eng">http://shiningtour.itforone.co.kr/eng/bbs/register.php</string>
+    <string name="favorite_eng">http://shiningtour.itforone.co.kr/eng/bbs/mybookmark.php</string>
+    <string name="profile_eng">http://shiningtour.itforone.co.kr/eng/bbs/register_form.php?w=u</string>
+    <string name="coupon_eng">http://shiningtour.itforone.co.kr/eng/bbs/mycoupon.php</string>
+    <string name="schedule_eng">http://shiningtour.itforone.co.kr/eng/bbs/myschedule.php</string>
+    <string name="qna_eng">http://shiningtour.itforone.co.kr/eng/bbs/board.php?bo_table=faq</string>
+
+    <!--<string name="upload_imgphp">http://shiningtour.itforone.co.kr/Android.uploadprofile.php</string>    -->
+
+</resources>
+
+
